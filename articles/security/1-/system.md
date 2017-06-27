@@ -3,7 +3,7 @@
 
 用友云安全体系图
 
-![](/articles/yycloud/whitepaper/images/image2.png)
+![](/articles/security/1-/images/image2.png)
  
 资料来源：用友云，2017 
 ## 安全管理
@@ -19,7 +19,7 @@
 
 用友云安全运维框架
 
-![](/articles/yycloud/whitepaper/images/image3.png)
+![](/articles/security/1-/images/image3.png)
 
 
 资料来源：用友云，2017
