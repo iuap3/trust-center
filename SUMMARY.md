@@ -24,7 +24,7 @@
     * [java安全编码规范](articles/security/5-/java.md)
 * [安全运维实践](articles/security/6-/)
     * [Linux服务器加固](articles/security/6-/linux.md)
-    * [PHP环境加固](articles/security/6-/linux.md)
+    * [PHP环境加固](articles/security/6-/php.md)
     * [Apache服务加固](articles/security/6-/apache.md)
     * [Mysql服务加固](articles/security/6-/mysql.md)
     * [Redis服务加固](articles/security/6-/redis.md)
