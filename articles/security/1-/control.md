@@ -5,7 +5,7 @@
 
 用友云安全治理架构
 
-![](/articles/yycloud/whitepaper/images/image1.png)
+![](/articles/security/1-/images/image1.png)
  
 资料来源：用友云，2017
 ## 人员安全管理

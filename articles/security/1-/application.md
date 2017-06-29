@@ -5,7 +5,7 @@
 
 用友云应用开发安全过程保证
 
-![](/articles/yycloud/whitepaper/images/image4.png)
+![](/articles/security/1-/images/image4.png)
 
  
 资料来源：用友云，2017
@@ -49,7 +49,7 @@
 
 用友云服务认证
 
-![](/articles/yycloud/whitepaper/images/image5.png)
+![](/articles/security/1-/images/image5.png)
 
  
 资料来源：用友云，2017
@@ -58,7 +58,7 @@
  
 用友云Web应用防火墙
 
-![](/articles/yycloud/whitepaper/images/image6.png)
+![](/articles/security/1-/images/image6.png)
 
  
 资料来源：用友云，阿里云，2017
