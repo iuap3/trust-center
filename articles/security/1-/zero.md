@@ -4,4 +4,4 @@
 安全问题涉及领域众多、纷繁复杂，本白皮书撰写时间仓促，难免有疏漏之处，欢迎大家就用友云安全提出各种批评建议，我们将随时改进。
 敬请联系：陈杰，chenjie2@yonyou.com
 
-[《数据安全白皮书》](/articles/security/1-/images/white_paper.pdf) 下载
+[《用友云安全白皮书》](/articles/security/1-/images/white_paper.pdf) 下载
