@@ -1,0 +1,32 @@
+{ 
+ "title": "用友云安全中心", 
+ "desc": "云安全，主要包含两个方面的含义。第一是云计算自身的安全，也称为云计算安全，包括物理安全、网络安
+
+全、应用安全以及数据安全等方面，云计算安全是云计算技术健康可持续发展的基础；第二是使用云的形式提供和交付
+
+安全，也即云计算技术在安全领域的具体应用。用友云安全主要是针对第一方面，同时用友云会和第二方面的云安全服
+
+务商进行紧密合作，共同为客户提供良好的安全服务。", 
+ "list": [ 
+ { 
+ "title": "用友云安全白皮书", 
+ "link": "#/md-build/trust-center/articles/security/1-/zero.md", 
+ "desc": "用友云对安全问题非常重视，本白皮书是用友云安全在当前阶段的理念、战略、框架与关键策略解读" 
+ }, 
+ { 
+ "title": "ISO 27001", 
+ "link": "#/md-build/trust-center/articles/security/2-/overview.md", 
+ "desc": "介绍ISO 27001认证对用友云的作用" 
+ }, 
+ { 
+ "title": "可信云服务认证", 
+ "link": "#/md-build/trust-center/articles/security/3-/overview.md", 
+ "desc": "介绍可信云服务认证对用友云的影响" 
+ }, 
+ { 
+ "title": "等级保护", 
+ "link": "#/md-build/trust-center/articles/security/4-/overview.md", 
+ "desc": "等级保护介绍和对客户的影响" 
+ } 
+ ] 
+ } 
